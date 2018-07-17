@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fragWeC</string>
+    <string name="a">微信</string>
+    <string name="b">通讯录</string>
+    <string name="c">发现</string>
+    <string name="d">我</string>
+</resources>
